@@ -34,8 +34,8 @@ export default function Hero() {
             className="flex flex-col justify-center space-y-4"
           >
             <div className="space-y-2">
-              <h1 className="text-3xl font-bold tracking-tighter sm:text-5xl xl:text-6xl/none">
-                 MikeHwaks modern template
+              <h1 className="text-4xl font-bold tracking-tighter sm:text-5xl xl:text-7xl/none">
+                 Jigyasa
               </h1>
               <p className="max-w-[600px] text-muted-foreground md:text-xl">
                 A modern starter template with everything you need to get started quickly. Responsive design,
