@@ -25,3 +25,20 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+#python 
+Lib
+/__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg-info
+Scripts
+Bin
+bin
+lib64  
+include
+include
+*.cfg
+backend/serviceAccountKey.json

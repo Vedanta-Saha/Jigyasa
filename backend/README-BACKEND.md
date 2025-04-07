@@ -1,1 +1,2 @@
+- Do NOT USE WITHOUT VIRTUAL ENVIRONMENT
 - Make sure to have the serviceAccountKey.json
