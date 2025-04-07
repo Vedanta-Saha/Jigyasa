@@ -22,7 +22,8 @@ Jigyasa is an interactive quizzing platform where users can participate in vario
 
 Before you begin, ensure you have the following installed:
 
-- [Node.js](https://nodejs.org/) (includes npm)
+- [Python](https://python.org/) 
+- [NodeJS](https://nodejs.org/)
 
 ### Clone the Repository
 
